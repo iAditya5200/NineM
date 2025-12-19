@@ -80,7 +80,7 @@ function Contact() {
     <div className="mt-5 px-4 md:px-10 gap-6 w-full min-h-screen flex flex-col md:flex-row  md:justify-between">
 
       {/* Left panel: Contact info + map */}
-      <motion.div className="md:w-1/2 w-full rounded-xl flex flex-col">
+      <motion.div className=" w-full rounded-xl flex flex-col">
         <div className="mb-6">
           <div className="flex items-center gap-3 text-zinc-800 mb-1">
             <FaHome />
@@ -115,7 +115,7 @@ function Contact() {
             title="9M solutionsLocation"
             className="w-full h-full rounded"
             referrerPolicy="no-referrer-when-downgrade"
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBfmi33ACI5ncLgXyFblzp0qTXhvyaYXKA&q=C-113,1st Floor,BLK-GH,PKT-4,SEC-29,ROHINI,DELHI"
+            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBfmi33ACI5ncLgXyFblzp0qTXhvyaYXKA&q=33 UBI Avenue 3, #08-68 Vertex, Singapore - 408868"
             allowFullScreen
             loading="lazy"
           />
@@ -123,10 +123,10 @@ function Contact() {
       </motion.div>
 
       {/* Right panel: Enquiry Form */}
-      <div className=" md:w-2/5 w-full h-90 md:h-140 rounded-xl overflow-hidden p-4 bg-white shadow-md">
+      {/* <div className=" md:w-2/5 w-full h-90 md:h-140 rounded-xl overflow-hidden p-4 bg-white shadow-md">
         <h3 className="font-bold text-xl text-zinc-800 mb-4">Have any enquiry?</h3>
         <EnquiryForm />
-      </div>
+      </div> */}
     </div>
   );
 }
