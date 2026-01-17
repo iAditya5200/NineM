@@ -26,7 +26,7 @@ function Home() {
       <div className='flex gap-[5vw] px-[5vw] mt-[5vw]'>
 
         <p >
-          9M solutions Shipping Services Pvt Ltd, established in 2020, specializes in providing top-notch technical services to global clients in the maritime industry.
+          9M solutions Pte Ltd, established in 2023, specializes in providing top-notch technical services to global clients in the maritime industry.
           Our highly skilled consultants conduct thorough audits of ships, systems, and Owners/Operators offices, offering independent assessments aligned with industry standards.
           <br />
           <br />
@@ -34,7 +34,7 @@ function Home() {
           <br />
           <br />
           As part of our continued expansion, we established 9M Solutions Pte. Ltd. in 2023. Based in Singapore, this subsidiary focuses on advanced training, e-learning, and Competency Learning Management System (CLMS) services, empowering seafarers across diverse shipping companies.
-          With a commitment to excellence and innovation, 9M solutions Shipping Services Pvt. Ltd. remains a trusted partner in driving operational success and professional growth in the maritime industry.
+          With a commitment to excellence and innovation, 9M solutions Pte. Ltd. remains a trusted partner in driving operational success and professional growth in the maritime industry.
 
         </p>
         <img className='w-[40vw] h-[30vw] object-cover rounded' src={img} alt="img" />
@@ -46,13 +46,13 @@ function Home() {
       <div className="mx-auto w-full mt-16 px-4 sm:px-6 lg:px-12">
 
         {/* 🔹 Heading */}
-        <div className="text-center font-bold text-3xl sm:text-4xl md:text-5xl text-zinc-800">
-          9M solutions
+        <div className="text-center tracking-tighter font-['golu']  font-bold text-3xl sm:text-4xl md:text-5xl text-zinc-800">
+          9M SOLUTIONS
         </div>
 
         {/* 🔹 Subheading */}
         <div className="text-center font-semibold text-lg sm:text-2xl mt-4 text-zinc-700">
-          Your Compass to Maritime Innovation.
+          Your Compass to Maritime Innovation
         </div>
 
 
@@ -77,13 +77,13 @@ function Home() {
 
           {/* 🔸 Paragraph Text */}
           <p className="text-zinc-800 text-center lg:text-left leading-relaxed text-sm sm:text-base lg:w-1/2">
-            9M solutions Shipping Services Pvt Ltd, established in 2020, specializes in providing top-notch technical services to global clients in the maritime industry.
+            9M solutions Pte Ltd, established in 2023, specializes in providing top-notch technical services to global clients in the maritime industry.
             Our highly skilled consultants conduct thorough audits of ships, systems, and Owners/Operators offices, offering independent assessments aligned with industry standards.
             <br /><br />
             With extensive experience, our consultants perform fleet-wide navigation audits for Oil Tankers, Gas Carriers, large container ships, and bulk carrier Owners. This allows us to provide valuable feedback to improve performance. Clients have praised the effectiveness of our audits, highlighting our meticulous approach and attention to detail.
             <br /><br />
-            As part of our continued expansion, we established 9M Solutions Pte. Ltd. in 2023. Based in Singapore, this subsidiary focuses on advanced training, e-learning, and Competency Learning Management System (CLMS) services, empowering seafarers across diverse shipping companies.
-            With a commitment to excellence and innovation, 9M solutions Shipping Services Pvt. Ltd. remains a trusted partner in driving operational success and professional growth in the maritime industry.
+            Based in Singapore, our company focuses on advanced training, e-learning, and Competency Learning Management System (CLMS) services, empowering seafarers across diverse shipping companies.
+            With a commitment to excellence and innovation, 9M solutions Pte. Ltd. remains a trusted partner in driving operational success and professional growth in the maritime industry.
           </p>
 
 
@@ -108,7 +108,7 @@ function Home() {
       <div className='mx-auto w-[100%] tracking-widest mt-25 font-bold text-3xl text-center text-zinc-800 hover:text-zinc-500  rounded-full'>
       Our Services
       </div>
-      < p className='text-center my-5'>9M solutionshas been a prominent player in the industry since 2016, providing marine-related technical services to a global clientele. Whether you’re a Dry Fleet or Tanker Fleet operator, at 9M solutionsMarine, we tailor our solutions to your unique fleet needs. Our dedicated team of Subject Matter Experts is driven by the goal of optimizing your fleet’s performance.</p>
+      < p className='text-center my-5'>9M solution Pte Ltd has been a prominent player in the industry since 2023, providing marine-related technical services to a global clientele. Whether you’re a Dry Fleet or Tanker Fleet operator, at 9M solutionsMarine, we tailor our solutions to your unique fleet needs. Our dedicated team of Subject Matter Experts is driven by the goal of optimizing your fleet’s performance.</p>
       {/* <Clients /> */}
 
       {/* <div className='mx-auto w-[100%] tracking-widest mt-25 font-bold text-3xl text-center text-zinc-800 hover:text-zinc-500  rounded-full'>

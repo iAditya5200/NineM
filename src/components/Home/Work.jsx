@@ -118,9 +118,9 @@ function Work() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 4, duration: 2 }}
-          className=" text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-extrabold text-blue-700"
+          className=" text-5xl sm:text-7xl tracking-tighter md:text-8xl lg:text-9xl font-extrabold font-['golu']  text-blue-700"
         >
-          9M solutions
+          9M SOLUTIONS
         </motion.h1>
 
         {/* Beyond Horizon (fades out early) */}
@@ -129,7 +129,7 @@ function Work() {
           transition={{ delay: 2, duration: 2 }}
           className="absolute text-center"
         >
-          <h2 className="text-3xl sm:text-5xl md:text-[8vw] font-bold">
+          <h2 className="text-3xl sm:text-5xl md:text-[8vw] font-bold  ">
             <span className="block">Beyond Horizon</span>
             {/* Solutions */}
           </h2>

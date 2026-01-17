@@ -85,7 +85,7 @@ function DetailsCard() {
             About Us
           </h1>
           <p className="text-zinc-800 leading-relaxed text-base sm:text-lg mb-3">
-            9M solutions Shipping Services Pvt Ltd, established in 2020, specializes in providing top-notch technical services to global clients in the maritime industry.
+            9M solutions Pte Ltd, established in 2023, specializes in providing top-notch technical services to global clients in the maritime industry.
           </p>
           <p className="text-zinc-800 leading-relaxed text-base sm:text-lg">
             Our highly skilled consultants conduct thorough audits of ships, systems, and Owners/Operators offices, offering independent assessments aligned with industry standards.

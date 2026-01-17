@@ -21,3 +21,11 @@ body , html {
   background: rgba(252, 32, 32, 0.848);
   border-radius: 10px;
 }
+
+/* src/index.css */
+@font-face {
+  font-family: 'golu';
+  src: url('./assets/blippo-black_freefontdownload_org/blippo-black.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}

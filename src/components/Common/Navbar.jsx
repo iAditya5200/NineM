@@ -242,8 +242,8 @@ function Navbar() {
         <div className="flex items-center gap-2 justify-center items-center">
           <img className="h-5 sm:h-7 md:h-9" src={logo} alt="Logo" />
           <div className=" pt-2">
-            <h1 className="text-[15px] mr-1 m-0 leading-[12px] sm:text-2xl font-bold text-blue-700">
-             Nine M
+            <h1 className="text-[15px] mr-1 m-0 leading-[12px] sm:text-2xl font-bold font-['golu'] tracking-[-0.10em] text-blue-700">
+             9M
             </h1>
             <p className="text-[8px]  m-0 text-red-500 sm:text-xs font-Bold">
               Beyond Horizon

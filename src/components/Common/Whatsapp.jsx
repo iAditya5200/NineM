@@ -8,7 +8,7 @@ const MotionWhatsapp = motion(FaWhatsapp);
     
   return (
       <a
-                href="https://api.whatsapp.com/send/?phone=9319603502&text&type=phone_number&app_absent=0"
+                href="https://api.whatsapp.com/send/?phone=919319603502&text&type=phone_number&app_absent=0"
                 target='_blank'
                 className="text-sky-900  hover:text-red-500 text-sm md:text-[1vw]"
               >
